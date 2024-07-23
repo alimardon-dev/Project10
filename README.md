@@ -1,2 +1,3 @@
 # Project10
-It is CSS style project and used some flex features
+It is a CSS style project and uses some flex features.
+There are several div boxes and gave some colors and CSS features
